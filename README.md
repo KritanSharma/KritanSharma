@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KritanSharma
 - 👀 I’m interested in WEB-DEVELPOMENT
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on MY PROJECTS
+- 💞️ I’m looking to collaborate on MY PROJECTs
 - 📫 How to reach me .....   kritan010@gmail.com
 
 <!---
